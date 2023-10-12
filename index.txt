@@ -1,2 +1,4 @@
 <h1>Gitチュートリアル</h1>
 おはよう
+git reset
+git commit --amend

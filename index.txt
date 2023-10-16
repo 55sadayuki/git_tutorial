@@ -2,3 +2,4 @@
 おはよう
 git reset
 git commit --amend
+conflict
